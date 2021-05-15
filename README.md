@@ -1,8 +1,7 @@
 # Hand Emoji Recognition System
- This is ml based project that project that recognize different emojis of hands. Since it uses CNN. The model is trained in such a way that it recognize correct hand postures with that emoji image 
-Working of the Project
-1.Capturing datasets with opencv.
-2.Creating a folder containing images on Operating system
-3. Converting it into csv file for training the datasets.
-4.Training of convolutional Neural Network.
+Developed a hand gestures recognition system for mapping symbolic hand gestures to analogous hand emoji in computer-mediated communication
+using CNN architecture in machine learning.
+Proposed a user-defined hand gesture set that is highly representative of several visual communication markers that can identify hand gestures with
+an accuracy of 98%.
+Used CNN architecture coded in python using TensorFlow machine learning API.
 
